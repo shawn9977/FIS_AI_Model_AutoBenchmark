@@ -1,0 +1,6 @@
+./models/public/yolov8/FP16-INT8/yolov8l_1_2048_2048_3.xml
+./models/public/yolov8/FP16/yolov8l_1_2048_2048_3.xml
+./models/public/yolov8/FP32/yolov8l_1_2048_2048_3.xml
+./models/public/yolov8/FP16-INT8/yolov8l_1_3_640_640.xml
+./models/public/yolov8/FP16/yolov8l_1_3_640_640.xml
+./models/public/yolov8/FP32/yolov8l_1_3_640_640.xml

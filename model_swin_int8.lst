@@ -1,0 +1,3 @@
+models/public/swin-tiny-patch4-window7-224/FP32/swin-tiny-patch4-window7-224.xml
+models/public/swin-tiny-patch4-window7-224/FP16/swin-tiny-patch4-window7-224.xml
+models/public/swin-tiny-patch4-window7-224/FP16-INT8/swin-tiny-patch4-window7-224.xml

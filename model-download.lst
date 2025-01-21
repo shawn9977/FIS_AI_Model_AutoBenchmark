@@ -1,0 +1,12 @@
+deeplabv3
+detr-resnet50
+efficientnet-v2-b0
+faster_rcnn_resnet50_coco
+fastseg-large
+fastseg-small
+mask_rcnn_resnet50_atrous_coco
+mobilenet-v2
+mobilenet-v3-small-1.0-224-tf
+resnet-50-pytorch
+swin-tiny-patch4-window7-224
+unet-camvid-onnx-0001

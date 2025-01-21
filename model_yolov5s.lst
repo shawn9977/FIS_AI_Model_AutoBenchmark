@@ -1,0 +1,6 @@
+models/public/yolov5/FP32/yolov5s_1_3_640_640.xml
+models/public/yolov5/FP32/yolov5s_1_2048_2048_3.xml
+models/public/yolov5/FP16/yolov5s_1_3_640_640.xml
+models/public/yolov5/FP16/yolov5s_1_2048_2048_3.xml
+models/public/yolov5/FP16-INT8/yolov5s_1_3_640_640.xml
+models/public/yolov5/FP16-INT8/yolov5s_1_2048_2048_3.xml

@@ -1,0 +1,3 @@
+models/public/unet-camvid/FP16/unet-camvid-onnx-0001.xml
+models/public/unet-camvid/FP16-INT8/unet-camvid-onnx-0001.xml
+models/public/unet-camvid/FP32/unet-camvid-onnx-0001.xml

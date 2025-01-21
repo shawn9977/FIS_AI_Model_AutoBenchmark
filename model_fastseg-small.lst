@@ -1,0 +1,2 @@
+models/public/fastseg-small/FP16-INT8/fastseg-small.xml
+models/public/fastseg-small/FP16/fastseg-small.xml

@@ -1,0 +1,3 @@
+models/public/deeplabv3/FP32/deeplabv3.xml
+models/public/deeplabv3/FP16/deeplabv3.xml
+models/public/deeplabv3/FP16-INT8/deeplabv3.xml

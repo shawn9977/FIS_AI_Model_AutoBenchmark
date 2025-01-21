@@ -1,0 +1,3 @@
+models/public/detr-resnet50/FP32/detr-resnet50.xml
+models/public/detr-resnet50/FP16/detr-resnet50.xml
+models/public/detr-resnet50/FP16-INT8/detr-resnet50.xml

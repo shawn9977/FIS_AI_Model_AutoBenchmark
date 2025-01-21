@@ -1,0 +1,20 @@
+
+./genbenchmark.sh model_deeplabv3.lst         devices.lst  hints.lst  > testdeeplabv3.sh   
+./genbenchmark.sh model_detr.lst              devices.lst  hints.lst  > testdetr.sh     
+./genbenchmark.sh model_efficientnetv2.lst    devices.lst  hints.lst  > testefficientnetv2.sh      
+./genbenchmark.sh model_faster_rcnn.lst       devices.lst  hints.lst  > testfaster_rcnn.sh    
+./genbenchmark.sh model_fastseg-large.lst     devices.lst  hints.lst  > testfastseg-large.sh      
+./genbenchmark.sh model_fastseg-small.lst     devices.lst  hints.lst  > testfastseg-small.sh      
+./genbenchmark.sh model_mask_rcnn.lst         devices.lst  hints.lst  > testmask_rcnn.sh 
+./genbenchmark.sh model_mobile_net_v2.lst     devices.lst  hints.lst  > testmobile_net_v2.sh  
+./genbenchmark.sh model_mobile_net_v3.lst     devices.lst  hints.lst  > testmobile_net_v3.sh        
+./genbenchmark.sh model_mobile_sam.lst        devices.lst  hints.lst  > testmobile_sam.sh       
+./genbenchmark.sh model_mobilevit.lst         devices.lst  hints.lst  > testmobilevit.sh     
+./genbenchmark.sh model_resnet_50.lst         devices.lst  hints.lst  > testresnet_50.sh   
+./genbenchmark.sh model_sam.lst               devices.lst  hints.lst  > testsam.sh     
+./genbenchmark.sh model_swin_int8.lst         devices.lst  hints.lst  > testswin_int8.sh       
+./genbenchmark.sh model_unet_camvid.lst       devices.lst  hints.lst  > testunet_camvid.sh       
+./genbenchmark.sh model_yolov5l.lst           devices.lst  hints.lst  > testyolov5l.sh    
+./genbenchmark.sh model_yolov5s.lst           devices.lst  hints.lst  > testyolov5s.sh   
+./genbenchmark.sh model_yolov8l.lst           devices.lst  hints.lst  > testyolov8l.sh  
+./genbenchmark.sh model_yolov8s.lst           devices.lst  hints.lst  > testyolov8s.sh   

@@ -1,0 +1,3 @@
+models/public/faster_rcnn_resnet50_coco/FP32/faster_rcnn_resnet50_coco.xml
+models/public/faster_rcnn_resnet50_coco/FP16/faster_rcnn_resnet50_coco.xml
+models/public/faster_rcnn_resnet50_coco/FP16-INT8/faster_rcnn_resnet50_coco.xml

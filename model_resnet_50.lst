@@ -1,0 +1,2 @@
+models/public/resnet-50-pytorch/FP16-INT8/resnet-50-pytorch.xml
+models/public/resnet-50-pytorch/FP16/resnet-50-pytorch.xml

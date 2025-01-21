@@ -1,0 +1,2 @@
+models/public/mobilenet-v2/FP16-INT8/mobilenet-v2.xml
+models/public/mobilenet-v2/FP16/mobilenet-v2.xml

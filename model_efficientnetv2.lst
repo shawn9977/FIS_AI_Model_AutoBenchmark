@@ -1,0 +1,3 @@
+models/public/efficientnet-v2-b0/FP32/efficientnet-v2-b0.xml
+models/public/efficientnet-v2-b0/FP16/efficientnet-v2-b0.xml
+models/public/efficientnet-v2-b0/FP16-INT8/efficientnet-v2-b0.xml

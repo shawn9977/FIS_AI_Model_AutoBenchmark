@@ -1,0 +1,2 @@
+models/public/mobilenet-v3-small-1.0-224-tf/FP16-INT8/mobilenet-v3-small-1.0-224-tf.xml
+models/public/mobilenet-v3-small-1.0-224-tf/FP16/mobilenet-v3-small-1.0-224-tf.xml

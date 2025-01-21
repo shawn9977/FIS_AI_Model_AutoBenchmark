@@ -1,0 +1,3 @@
+models/public/mask_rcnn_resnet50_atrous_coco/FP32/mask_rcnn_resnet50_atrous_coco.xml
+models/public/mask_rcnn_resnet50_atrous_coco/FP16/mask_rcnn_resnet50_atrous_coco.xml
+models/public/mask_rcnn_resnet50_atrous_coco/FP16-INT8/mask_rcnn_resnet50_atrous_coco.xml

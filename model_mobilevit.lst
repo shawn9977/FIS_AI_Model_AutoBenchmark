@@ -1,0 +1,3 @@
+models/public/mobilevit/FP32/mobilevit_1_3_224_224.xml
+models/public/mobilevit/FP16/mobilevit_1_3_224_224.xml
+models/public/mobilevit/FP16-INT8/mobilevit_1_3_224_224.xml
